@@ -1,0 +1,14 @@
+1. what do you know about the git?
+Ans: I know how to configure the username and password. 
+and I know the basic command used in gitbash......
+1. creating empty directory and file in any drive
+   ex: mkdir gitpractise
+	touch first.txt
+2. creating initial .git directory in our directory
+	ex: git init project1
+3. git status : it will show the status of your repo 
+4. git add first.txt : file adds to the staging area
+5. git commit -m " this is my first commit"
+6. ls : list all the files and folders
+7. ls -a : it will show all the folders and files in the project1 directory
+8. ls .git : it will list all the folders in .git folder
